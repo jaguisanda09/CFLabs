@@ -1,0 +1,4 @@
+cloudFoundryTest:
+    name: Cloud Foundry Config Server Tech Guide
+    description: Technical Guide on how to use config server provider
+    author: jonna aguisanda
