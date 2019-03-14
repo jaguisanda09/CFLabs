@@ -1,4 +1,4 @@
-configServerInfo:
-    name: Cloud Foundry Config Server Tech Guide
-    description: Technical Guide on how to use config server provider
-    author: jonna aguisanda
+ConfigServerInfo:
+    Name: Cloud Foundry Config Server Tech Guide
+    Description: Technical Guide on how to use config server provider
+    Author: jonna aguisanda
